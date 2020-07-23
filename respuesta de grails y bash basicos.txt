@@ -1,8 +1,8 @@
-Respuesta de script basico grails
+Respuesta de script basico grails.
 
 *El output que obtenemos con el script es el seguimiento logistico de un paquete que esta en curso a su destino, de manera mas coloquial seria como el seguimiento que tiene mercado libre para saber cuando llegaria tu paquete a tu casa por ejemplo0
 
-Respuesta de script bash basico
+Respuesta de script bash basico.
 
 *El output del script presentado desea obtener las preferencias de envio de los clientes que tiene en el array
 
