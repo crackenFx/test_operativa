@@ -1,6 +1,6 @@
 const axios = require("axios"); //requerimos el modulo axios que es para realizar consultas https
 
-async function obtenerDatos() { //creamos una funcion asincrona para consulta https
+async function obtenerDatos() { //creamos una funcion asincrona
   const respuesta = await axios.get(
     "https://api.mercadolibre.com/sites/MLA/search?seller_id=179571326"
   );
